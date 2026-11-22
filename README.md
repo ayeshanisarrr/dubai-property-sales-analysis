@@ -6,7 +6,7 @@ SQL Server and Tableau analysis of Dubai Land Department sales data, 2020-2022: 
 ![Dashboard](dashboard.png)
 
 **Live dashboard:**
-https://public.tableau.com/app/profile/ayesha.nisar/viz/DubaiResidentialSalesAnalysis/DubaiPropertySales2020-2022?utm_source=chatgpt.com
+[https://public.tableau.com/app/profile/ayesha.nisar/viz/DubaiResidentialSalesAnalysis/DubaiPropertySales2020-2022]
 
 > **Note:** This is a portfolio project. The brokerage, the manager and the budget in the scenario are fictional. The data is real.
 
