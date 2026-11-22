@@ -94,7 +94,7 @@ Each area is ranked on 2022 sales (Q1), growth (Q3) and flats under 1.5M (Q5). T
 1. **Demand is concentrated.** The top 10 areas made up 59.5% of 2022 residential sales (44,769 of 75,201). Business Bay led with 8,123 sales (10.8%), followed by Marsa Dubai with 6,549 (8.7%).
 2. **Most top areas are flat markets.** Seven of the top 10 areas were at least 95% flats. Wadi Al Safa 5 is the only villa-led area, with 2,120 of its 2,839 sales (74.7%) being villas.
 3. **Growth was uneven.** Market sales grew 60.4% from 2021 to 2022 (46,877 to 75,201). Of the 47 areas with 100+ sales in 2021, 22 grew faster than the market and 11 sold less in 2022. Three of the top 10 areas grew slower than the market: Marsa Dubai (+20.1%), Hadaeq Sheikh Mohammed Bin Rashid (+30.5%) and Wadi Al Safa 5 (+11.9%).
-4. **Over half of 2022 sales were off-plan.** 41,559 of 75,201 sales (55.3%). Eight of the top 10 areas were more than half off-plan. Al Merkadh was the highest at 90.9% (4,743 of 5,219).
+4. **Over half of 2022 sales were off-plan.** 41,559 of 75,201 sales (55.3%). Eight of the top 10 areas were more than half off-plan. Al Merkadh was the highest of the top 10 at 90.9%. Three other areas outside the top 10 had even higher shares.
 5. **High demand does not mean high price.** Palm Jumeirah flats had the highest median price per sqm at 32,110, which is 99.2% above the Dubai flat median of 16,119. Al Barsha South Fourth had the third-most sales, but its flats were 37.8% below the Dubai median.
 6. **Entry-level flats are concentrated.** 58.8% of 2022 flat sales were under 1.5M (36,448 of 62,026). Al Barsha South Fourth had the most, with 5,290 of its 5,388 flat sales (98.2%).
 
@@ -120,7 +120,7 @@ Each area is ranked on 2022 sales (Q1), growth (Q3) and flats under 1.5M (Q5). T
 ## 8. Limitations
 
 - The data ends on 17 March 2023. This analysis shows past patterns, not today's market.
-- 2023 is excluded because it is a partial year. 2020 was affected by COVID, so its numbers are unusual.
+- 2023 is excluded because it is a partial year. 2020 may be affected by COVID, which this analysis did not test.
 - The data is a Kaggle copy of DLD open data. It was not downloaded from the official portal.
 - Values are assumed to be in AED. I could not confirm the currency from the dataset description.
 - The sale types kept (three of 18) and the price per sqm bounds (1,000 to 100,000, which removed 137 rows) are judgment calls.
