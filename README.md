@@ -3,8 +3,7 @@
 
 ![Dashboard](dashboard.png)
 
-**Live dashboard:**
-[https://public.tableau.com/app/profile/ayesha.nisar/viz/DubaiResidentialSalesAnalysis/DubaiPropertySales2020-2022]
+**Live dashboard:** https://public.tableau.com/app/profile/ayesha.nisar/viz/DubaiResidentialSalesAnalysis/DubaiPropertySales2020-2022
 
 > **Note:** This is a portfolio project. The brokerage, the manager and the budget in the scenario are fictional. The data is real.
 
@@ -22,7 +21,7 @@ A Dubai property brokerage has a limited marketing budget for the next quarter. 
 
 ## 2. Data
 
-- **Source:** Dubai Land Department (DLD) open transaction data, downloaded from Kaggle ("Dubai Real Estate Transactions Dataset" by Alex Efimik). [https://www.kaggle.com/datasets/alexefimik/dubai-real-estate-transactions-dataset]
+- **Source:** Dubai Land Department (DLD) open transaction data, downloaded from Kaggle ("Dubai Real Estate Transactions Dataset" by Alex Efimik). https://www.kaggle.com/datasets/alexefimik/dubai-real-estate-transactions-dataset
 - **Size:** 1,047,965 transaction rows, from 7 March 1995 to 17 March 2023.
 - **Tools:** Microsoft SQL Server (cleaning and analysis), Tableau Public (dashboard).
 
