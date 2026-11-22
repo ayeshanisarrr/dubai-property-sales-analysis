@@ -27,7 +27,7 @@ A Dubai property brokerage has a limited marketing budget for the next quarter. 
 
 **Scope used in this analysis**
 - **Transaction type:** Sales only (787,892 rows). Mortgages and gifts are excluded.
-- **Sale types:** Sell, Sell - Pre registration and Delayed Sell (92.6% of sales rows). 14 other types, such as development and lease-to-own registrations, are excluded.
+- **Sale types:** Sell, Sell - Pre registration and Delayed Sell (92.6% of sales rows). 15 other types, such as development and lease-to-own registrations, are excluded.
 - **Property types:** Flats (property type "Unit", sub-type "Flat") and Villas. Land, buildings, hotel units and commercial units are excluded.
 - **Period:** 2020 to 2022, which are three full years. 2023 is excluded because the data stops in March.
 
@@ -123,7 +123,7 @@ Each area is ranked on 2022 sales (Q1), growth (Q3) and flats under 1.5M (Q5). T
 - 2023 is excluded because it is a partial year. 2020 was affected by COVID, so its numbers are unusual.
 - The data is a Kaggle copy of DLD open data. It was not downloaded from the official portal.
 - Values are assumed to be in AED. I could not confirm the currency from the dataset description.
-- The sale types kept (three of 17) and the price per sqm bounds (1,000 to 100,000, which removed 137 rows) are judgment calls.
+- The sale types kept (three of 18) and the price per sqm bounds (1,000 to 100,000, which removed 137 rows) are judgment calls.
 - Prices and values are registered transaction values. Off-plan and ready sales are mixed together in the price figures.
 - Percentages can mislead on small bases. For example, Al Khairan First's +279.9% is measured against a low 2021 total.
 - The analysis describes what happened. It does not explain why, and it does not predict what will happen.
