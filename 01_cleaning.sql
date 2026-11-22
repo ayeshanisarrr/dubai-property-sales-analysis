@@ -59,7 +59,7 @@ FROM dbo.Transactions;
 
 -- A6. Kinds of sales inside "Sales".
 -- Kept: Sell, Sell - Pre registration, Delayed Sell (92.6% of sales rows).
--- Excluded: the other 14 types, which look like development, lease-to-own
+-- Excluded: the other 15 types, which look like development, lease-to-own
 -- and land registrations rather than ordinary sales.
 
 SELECT procedure_name_en, COUNT(*) AS n
