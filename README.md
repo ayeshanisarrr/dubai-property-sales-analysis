@@ -111,7 +111,7 @@ Each area is ranked on 2022 sales (Q1), growth (Q3) and flats under 1.5M (Q5). T
 | Al Merkadh | 21 (4th / 14th / 3rd) | 5,219 sales, +102.8% growth, 3,691 flats under 1.5M | 92.3% of flat sales were off-plan. Sales were uneven: November and December 2022 were 35.2% of its year |
 
 **How stable is this?**
-- Business Bay and Al Khairan First were in the top 3 under 3 of the 4 scoring rules (all three ranks, and each pair of ranks).
+- Business Bay and Al Khairan First were in the top 3 under 3 of the 4 scoring rules. The four rules are all three ranks together, and each pair of ranks (leaving one rank out). Business Bay dropped to 4th without the demand rank, and Al Khairan First dropped to 8th without the growth rank.
 - Al Merkadh was in the top 3 under only 2 of the 4 rules. Jabal Ali First was one point behind it on the main score (22 vs 21).
 - Third place changes with how the factors are weighted.
 
